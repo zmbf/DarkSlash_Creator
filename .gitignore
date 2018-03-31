@@ -66,3 +66,7 @@ quick_gen_project_*_autogen.sh.meta
 
 .vscode/
 packages/
+json/scenes/StartGame.json
+ccreator/scenes/PlayGame.ccreator
+ccreator/scenes/StartGame.ccreator
+json/scenes/PlayGame.json
